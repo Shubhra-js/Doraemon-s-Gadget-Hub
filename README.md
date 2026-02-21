@@ -28,5 +28,7 @@ This project was built while learning Django fundamentals and exploring backend 
 
 ---
 
-## 📂 Project Structure
+## 💙 Author
+
+Built with curiosity while learning Django.
 
